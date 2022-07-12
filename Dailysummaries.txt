@@ -1,0 +1,60 @@
+Day: 1 
+Healthy: 45 
+Infected: 4 
+Sick: 1 
+Recovered: 0 
+ 
+Day: 2 
+Healthy: 35 
+Infected: 14 
+Sick: 1 
+Recovered: 0 
+ 
+Day: 3 
+Healthy: 20 
+Infected: 25 
+Sick: 4 
+Recovered: 1 
+ 
+Day: 4 
+Healthy: 8 
+Infected: 27 
+Sick: 14 
+Recovered: 1 
+ 
+Day: 5 
+Healthy: 1 
+Infected: 19 
+Sick: 29 
+Recovered: 1 
+ 
+Day: 6 
+Healthy: 0 
+Infected: 8 
+Sick: 37 
+Recovered: 5 
+ 
+Day: 7 
+Healthy: 0 
+Infected: 1 
+Sick: 34 
+Recovered: 15 
+ 
+Day: 8 
+Healthy: 0 
+Infected: 0 
+Sick: 20 
+Recovered: 30 
+ 
+Day: 9 
+Healthy: 0 
+Infected: 0 
+Sick: 8 
+Recovered: 42 
+ 
+Day: 10 
+Healthy: 0 
+Infected: 0 
+Sick: 1 
+Recovered: 49 
+ 
